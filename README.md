@@ -1,5 +1,6 @@
 # PS5 Relapse Exploit
 Supported firmware: 7.00 through 13.60.
+ALTHOUGH VERY MUCH RECOMMENDED YOU USE THIS ON FIRMWARE 13.60 BECAUSE OF COMPATIBILITY ISSUES
 
 ## Usage
 - In the network settings, set Primary DNS to `45.56.67.85` (Recommended)
